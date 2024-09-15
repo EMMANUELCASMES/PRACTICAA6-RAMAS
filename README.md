@@ -39,6 +39,18 @@ Descripción: Vimos herramientas y conceptos básicos necesarios para el desarro
 - **Flujo Básico de Git y GitHub**: Procedimientos esenciales para trabajar con Git y GitHub, incluyendo la creación de repositorios, el seguimiento de cambios.
   
 - **Ramas y Fusiones**: Introducción a la gestión de ramas en Git para el desarrollo paralelo y la fusión de cambios de diferentes ramas en un repositorio, facilitando un flujo de trabajo colaborativo y organizado.
-  
+---
+
+# Fundamentos de Computadores
+Docente: Rebeca Pantoja
+
+Descripción: Esta materia se centra en los aspectos fundamentales de los sistemas computacionales,historia del internet, cubriendo tambien historia de la computación, las capas de red. Los temas incluyen:
+
+- **Historia de los Computadores**: Estudio del desarrollo histórico de la computación, desde los primeros dispositivos mecánicos hasta las computadoras modernas. Se abordan hitos importantes y la evolución del hardware y software a lo largo del tiempo.
+
+- **Historia del Internet**: Exploración del desarrollo del Internet desde sus orígenes en las redes ARPANET y NSFNET hasta su expansión global actual. Se abordan los hitos importantes en la creación de protocolos, la expansión de la World Wide Web, y cómo el Internet ha transformado la comunicación y la información.
+
+- **Capas de Red**: Análisis del modelo de capas en redes de computadoras, incluyendo el modelo OSI y el modelo TCP/IP. Se exploran las funciones y protocolos de cada capa, así como su papel en la comunicación de redes. Se cubren temas como protocolos de enlace de datos, redes de área local (LAN) y redes de área amplia (WAN).
+
 
 
