@@ -52,5 +52,21 @@ Descripción: Esta materia se centra en los aspectos fundamentales de los sistem
 
 - **Capas de Red**: Análisis del modelo de capas en redes de computadoras, incluyendo el modelo OSI y el modelo TCP/IP. Se exploran las funciones y protocolos de cada capa, así como su papel en la comunicación de redes. Se cubren temas como protocolos de enlace de datos, redes de área local (LAN) y redes de área amplia (WAN).
 
+---
+
+# Introducción a la Ciberseguridad
+Docente: Darly Correa
+
+Descripción: Esta materia ofrece una introducción a los principios y prácticas fundamentales de la ciberseguridad. Los temas cubiertos incluyen:
+
+- **Conceptos Básicos de Ciberseguridad**: Fundamentos de la ciberseguridad, su importancia y objetivos principales de protección de información.
+
+- **Tipos de Amenazas y Vulnerabilidades**: Estudio de amenazas cibernéticas como malware, phishing, y ransomware, y las vulnerabilidades comunes en sistemas y aplicaciones.
+
+- **Medidas de Protección y Control**: Estrategias y herramientas para proteger sistemas y datos, incluyendo firewalls, sistemas de detección de intrusiones y prácticas de seguridad en la red.
+
+- **Seguridad en Redes**: Técnicas y mejores prácticas para asegurar redes de computadoras, criptografía para proteger datos en tránsito, y gestión de accesos.
+
+- **Respuesta a Incidentes**: Procedimientos y técnicas para responder a incidentes de seguridad, incluyendo la identificación, contención, erradicación y recuperación de ataques.
 
 
