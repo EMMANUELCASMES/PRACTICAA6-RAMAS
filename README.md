@@ -70,3 +70,8 @@ Descripción: Esta materia ofrece una introducción a los principios y práctica
 - **Respuesta a Incidentes**: Procedimientos y técnicas para responder a incidentes de seguridad, incluyendo la identificación, contención, erradicación y recuperación de ataques.
 
 
+---
+
+# VERSIONES
+
+- Creando la versión 1.0.0 de este repositorio.
